@@ -1,4 +1,4 @@
-# intestecAssessment
+# investecAssessment
 Assessment for Investec
 
 ===============================================Read Me file==================================================
